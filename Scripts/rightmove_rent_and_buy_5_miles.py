@@ -102,7 +102,7 @@ class Handler:
 
   def main(self, logger):
     # Read location from csv
-    with open('unique cities.csv', encoding='utf-8-sig') as csvfile:
+    with open('Scripts/unique cities.csv', encoding='utf-8-sig') as csvfile:
       url_list = [line.strip() for line in csvfile.readlines()]
       for i, row in enumerate(url_list):
 
