@@ -21,7 +21,7 @@ class Handler:
     global date
     standartdate = datetime.now()
     date = standartdate.strftime('%Y%m%d %H%M')
-    self.filename = '/home/User/rightmove/Scrapes/rightmove_{}.csv'.format(date)
+    self.filename = 'Scrapes/rightmove_{}.csv'.format(date)
     self.log_names = ['City', 'Buy', 'Rent', 'Status']
 
     self.fieldnames = ['Ref No.', 'URL', 'Price', 'No. Bedrooms', 'Prop Type', 'Date Listed', 'Address', 'Latitude', 'Longitude', 'Channel', 'airDNA City']
@@ -102,7 +102,7 @@ class Handler:
 
   def main(self, logger):
     # Read location from csv
-    with open('unique cities.csv', encoding='utf-8-sig') as csvfile:
+    with open('Scripts/unique cities.csv', encoding='utf-8-sig') as csvfile:
       url_list = [line.strip() for line in csvfile.readlines()]
       for i, row in enumerate(url_list):
 
@@ -140,8 +140,8 @@ class Handler:
 
         #file_exists = os.path.isfile("/home/User/rightmove/Scrapers/Logs/log_{}.csv".format(date))
         #with open("/home/User/rightmove/Scrapers/Logs/log_{}.csv".format(date), "a", newline='') as csvfile:
-        file_exists = os.path.isfile("/home/User/rightmove/Scrapes/Logs/log_{}.csv".format(date))
-        with open("/home/User/rightmove/Scrapes/Logs/log_{}.csv".format(date), "a", newline='') as csvfile:
+        file_exists = os.path.isfile("Scrapes/Logs/log_{}.csv".format(date))
+        with open("Scrapes/Logs/log_{}.csv".format(date), "a", newline='') as csvfile:
 
           writer = csv.DictWriter(csvfile, fieldnames=self.log_names)
           if not file_exists:
@@ -502,7 +502,7 @@ if __name__ == "__main__":
 #standartdate = datetime.now()
 #date = standartdate.strftime('%Y%m%d %H%M')
 
-#os.rename('/home/User/rightmove/_log.csv','/home/User/rightmove/Scrapes/Logs/log_{}.csv'.format(date))
+#os.rename('_log.csv','Scrapes/Logs/log_{}.csv'.format(date))
 ######
 
 
