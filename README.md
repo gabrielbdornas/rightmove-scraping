@@ -12,7 +12,7 @@ Local repo clone or python environment configuration isn't necessary, although t
 
 - Create a new repository from the repo template option (green button at the middle right of the page):
 
-![github_create_new_repo](assets/new_repo_template)
+![new_repo_template](assets/new_repo_template.jpg)
 
 ![github_create_new_repo_name](assets/github_create_new_repo_name.jpg)
 
