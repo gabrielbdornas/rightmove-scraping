@@ -1,9 +1,9 @@
 name: scraping_rightmove
 
-on:
-  # schedule:
-  #   - cron: '0 11 23 * *' # set in UTC timezone - https://crontab.guru - 11 UTC = 8 SP
-  workflow_dispatch
+# on:
+#   schedule:
+#     - cron: '0 11 23 * *' # set in UTC timezone - https://crontab.guru - 11 UTC = 8 SP
+on: [repository_dispatch]
 
 jobs:
   scraping-rightmove:
