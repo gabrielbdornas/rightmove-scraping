@@ -6,8 +6,8 @@ name: scraping_rightmove
 on: workflow_dispatch
 
 jobs:
-  scraping-rightmove:
-    name: Scraping Rightmove
+  scraping-rightmove-1:
+    name: Scraping Rightmove - Buy 1 miles
     runs-on: ubuntu-latest    
     steps:
       - name: Checkout repository
@@ -17,6 +17,57 @@ jobs:
       - name: Install packages
         run: pip install -r requirements.txt
       - name: Scraping Rightmove
-        run: python main.py
+        run: python Scripts/rightmove_buy_only_1_miles.py
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+
+  scraping-rightmove-2:
+    needs: scraping-rightmove-1
+    name: Scraping Rightmove - Buy 3 miles
+    runs-on: ubuntu-latest    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: main
+      - name: Install packages
+        run: pip install -r requirements.txt
+      - name: Scraping Rightmove
+        run: python Scripts/rightmove_buy_only_3_miles.py
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+
+  scraping-rightmove-3:
+    needs: scraping-rightmove-2
+    name: Scraping Rightmove - Buy 5 miles
+    runs-on: ubuntu-latest    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: main
+      - name: Install packages
+        run: pip install -r requirements.txt
+      - name: Scraping Rightmove
+        run: python Scripts/rightmove_buy_only_5_miles.py
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+
+  scraping-rightmove-4:
+    needs: scraping-rightmove-3
+    name: Scraping Rightmove - Rent and Buy 5 miles
+    runs-on: ubuntu-latest    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: main
+      - name: Install packages
+        run: pip install -r requirements.txt
+      - name: Scraping Rightmove
+        run: python Scripts/rightmove_rent_and_buy_5_miles.py
       - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v4
