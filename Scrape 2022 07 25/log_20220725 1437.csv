@@ -1,0 +1,617 @@
+City,Buy,Rent,Status
+London,1048,0,Ok
+Cardiff,1014,0,Ok
+Edinburgh,996,0,Ok
+Scottish Borders,326,0,Ok
+Dorset,1038,0,Ok
+Highland,109,0,Ok
+Canterbury,370,0,Ok
+East Sussex,1039,0,Ok
+Derbyshire,753,0,Ok
+Brighton and Hove,719,0,Ok
+Perth,433,0,Ok
+North Devon District,908,0,Ok
+Suffolk,790,0,Ok
+Shepway,103,0,Ok
+Plymouth,756,0,Ok
+Derry,2,0,Ok
+Manchester,1033,0,Ok
+South Norfolk District,256,0,Ok
+Isle of Wight,1008,0,Ok
+Powys,713,0,Ok
+Conwy,774,0,Ok
+South Lakeland,684,0,Ok
+Copeland,28,0,Ok
+Pembrokeshire,764,0,Ok
+Calderdale,752,0,Ok
+South Somerset District,593,0,Ok
+Horsham,214,0,Ok
+Argyll and Bute,384,0,Ok
+Tewkesbury,110,0,Ok
+Wychavon,7,0,Ok
+Stirling,81,0,Ok
+Bath,406,0,Ok
+Torbay,1008,0,Ok
+Northumberland,1010,0,Ok
+York,490,0,Ok
+Staffordshire Moorlands,1034,0,Ok
+Gwynedd,860,0,Ok
+Northamptonshire,794,0,Ok
+Oxford,721,0,Ok
+North Lanarkshire,448,0,Ok
+Cotswolds,882,0,Ok
+Stroud,94,0,Ok
+Great Yarmouth,367,0,Ok
+Taunton Deane,350,0,Ok
+Caithness,94,0,Ok
+South Hams District,144,0,Ok
+St Gennys,24,0,Ok
+Cherwell District,77,0,Ok
+County Down,1030,0,Ok
+Veryan,48,0,Ok
+South Lanarkshire,1,0,Ok
+Eden,56,0,Ok
+St Columb Major,0,0,Ok
+West Somerset District,2,0,Ok
+Warwickshire,961,0,Ok
+Mid Devon District,209,0,Ok
+Cheltenham,422,0,Ok
+Marazion,20,0,Ok
+North Ayrshire,343,0,Ok
+Aberdeenshire,59,0,Ok
+East Lindsey,4,0,Ok
+Thanet,1011,0,Ok
+Scarborough,398,0,Ok
+Lostwithiel,25,0,Ok
+Birmingham,1025,0,Ok
+Glasgow,788,0,Ok
+South Ayrshire,248,0,Ok
+Hambleton,53,0,Ok
+Shropshire,1021,0,Ok
+Teignbridge,73,0,Ok
+Southampton,965,0,Ok
+Ceredigion,276,0,Ok
+Beverley,205,0,Ok
+Belfast,12,0,Ok
+Durham,205,0,Ok
+Liverpool,1033,0,Ok
+Breckland District,566,0,Ok
+Windsor and Maidenhead,1008,0,Ok
+Chichester,340,0,Ok
+Peterborough,716,0,Ok
+Carmarthenshire,642,0,Ok
+St Albans,0,0,Ok
+Vale of Glamorgan,576,0,Ok
+Bristol,1020,0,Ok
+Wrexham,536,0,Ok
+Falmouth,91,0,Ok
+Inverness,43,0,Ok
+Newcastle upon Tyne,925,0,Ok
+Uttlesford,55,0,Ok
+Rochford,85,0,Ok
+St Minver Highlands,0,0,Ok
+Rossendale,411,0,Ok
+Cambridge,404,0,Ok
+Sithney,196,0,Ok
+Newport,0,0,Ok
+Portsmouth,716,0,Ok
+East Devon District,4,0,Ok
+Swansea,330,0,Ok
+Newquay,173,0,Ok
+North Somerset,868,0,Ok
+West Lancashire,4,0,Ok
+Leeds,1026,0,Ok
+Shetland Islands,18,0,Ok
+Fife,219,0,Ok
+Tonbridge and Malling,233,0,Ok
+Leicestershire,1008,0,Ok
+Wokingham,396,0,Ok
+Bedford,350,0,Ok
+Broxbourne,105,0,Ok
+Nottingham,1027,0,Ok
+Stafford,219,0,Ok
+Surrey,730,0,Ok
+Eastleigh,242,0,Ok
+Bridgend,416,0,Ok
+Central Bedfordshire,572,0,Ok
+Sheffield,1015,0,Ok
+St Agnes,0,0,Ok
+Dundee City,13,0,Ok
+West Devon District,36,0,Ok
+Nottinghamshire,19,0,Ok
+Epping Forest,74,0,Ok
+Swindon,560,0,Ok
+Southend-on-Sea,2,0,Ok
+Vale of White Horse,0,0,Ok
+Buckinghamshire,1036,0,Ok
+Cheshire East,1034,0,Ok
+Gateshead,323,0,Ok
+Frome,130,0,Ok
+Poole,495,0,Ok
+St Kew,0,0,Ok
+North Norfolk,661,0,Ok
+Wells,84,0,Ok
+Kingston upon Hull,518,0,Ok
+New Forest District,987,0,Ok
+Kirklees,2,0,Ok
+Grade Ruan,14,0,Ok
+Salisbury,258,0,Ok
+Norwich,118,0,Ok
+Exeter,399,0,Ok
+Dover,318,0,Ok
+Bracknell Forest,386,0,Ok
+West Berkshire,20,0,Ok
+East Renfrewshire,42,0,Ok
+South Gloucestershire,446,0,Ok
+West Oxfordshire,0,0,Ok
+Aberdeen City,0,0,Ok
+Isle of Anglesey,178,0,Ok
+Darlington,323,0,Ok
+Blackpool,797,0,Ok
+Mullion,4,0,Ok
+Rotherham,621,0,Ok
+Padstow,38,0,Ok
+Allerdale,401,0,Ok
+Mid Sussex,26,0,Ok
+Swale,40,0,Ok
+Adur,132,0,Ok
+Tunbridge Wells,466,0,Ok
+Gosport,217,0,Ok
+Dumfries and Galloway,263,0,Ok
+Coventry,10,0,Ok
+Arun,59,0,Ok
+Ribble Valley,662,0,Ok
+Reading,845,0,Ok
+Forrabury and Minster,44,0,Ok
+Bradford,890,0,Ok
+South Cambridgeshire,25,0,Ok
+Chester,374,0,Ok
+Leicester,26,0,Ok
+Angus,181,0,Ok
+Crawley,343,0,Ok
+East Dunbartonshire,324,0,Ok
+Winchester,288,0,Ok
+East Ayrshire,283,0,Ok
+Three Rivers,32,0,Ok
+Gloucester,556,0,Ok
+Hertsmere,995,0,Ok
+North Herts,1,0,Ok
+East Lothian,1016,0,Ok
+East Hertfordshire,1,0,Ok
+Constantine,0,0,Ok
+Slough,786,0,Ok
+Penryn,36,0,Ok
+Worcester,39,0,Ok
+Ashford,24,0,Ok
+Helston,41,0,Ok
+Chelmsford,153,0,Ok
+Fylde,709,0,Ok
+Bournemouth,794,0,Ok
+South Kesteven,781,0,Ok
+Maidstone,554,0,Ok
+Wyre,1,0,Ok
+Barnsley,678,0,Ok
+Newcastle-under-Lyme,1,0,Ok
+Solihull,881,0,Ok
+Stockton-on-Tees,300,0,Ok
+Perranuthnoe,21,0,Ok
+Dacorum,3,0,Ok
+Colan,3,0,Ok
+Feock,7,0,Ok
+Outer Hebrides,15,0,Ok
+Batheaston,0,0,Ok
+North Petherwin,31,0,Ok
+Borough of Colchester,15,0,Ok
+Midlothian,127,0,Ok
+Luton,934,0,Ok
+Forest of Dean,67,0,Ok
+St Mabyn,0,0,Ok
+Kings Lynn and West Norfolk,145,0,Ok
+Chorley,312,0,Ok
+Braintree,313,0,Ok
+Lincoln,447,0,Ok
+St JuSt,0,0,Ok
+Ryedale,12,0,Ok
+Germoe,3,0,Ok
+Bishop Monkton,8,0,Ok
+Craven,3,0,Ok
+Renfrewshire,261,0,Ok
+Perranzabuloe,0,0,Ok
+Wolverhampton,548,0,Ok
+Lanteglos,16,0,Ok
+Malvern Hills,155,0,Ok
+Penzance,154,0,Ok
+South Oxfordshire,851,0,Ok
+Flintshire,493,0,Ok
+St Cleer,0,0,Ok
+Walsall,426,0,Ok
+Barrow-in-Furness,313,0,Ok
+Halton,0,0,Ok
+Hayle,177,0,Ok
+Derby,8,0,Ok
+St Goran,0,0,Ok
+Altarnun,2,0,Ok
+Wirral District,981,0,Ok
+Torridge District,0,0,Ok
+Medway,946,0,Ok
+Milton Keynes,760,0,Ok
+Moray,222,0,Ok
+Sevenoaks,198,0,Ok
+Monmouthshire,409,0,Ok
+Camborne,42,0,Ok
+Stoke-on-Trent,530,0,Ok
+Bude Stratton,87,0,Ok
+North Tyneside,478,0,Ok
+St Levan,0,0,Ok
+Calstock,9,0,Ok
+West Lothian,445,0,Ok
+Burnley,355,0,Ok
+Carlisle,277,0,Ok
+Poundstock,3,0,Ok
+North Kesteven,253,0,Ok
+South Ribble,59,0,Ok
+Lancaster,234,0,Ok
+Doncaster,988,0,Ok
+Lichfield,165,0,Ok
+Broadland,0,0,Ok
+Sennen,18,0,Ok
+St Martin by Looe,0,0,Ok
+Test Valley,5,0,Ok
+Havant,124,0,Ok
+Looe,66,0,Ok
+Redcar and Cleveland,151,0,Ok
+Clackmannanshire,74,0,Ok
+Blackburn with Darwen,221,0,Ok
+Stevenage,233,0,Ok
+Hereford,905,0,Ok
+Porthleven,18,0,Ok
+Worthing,487,0,Ok
+Tockwith,20,0,Ok
+Kenwyn,3,0,Ok
+Telford and Wrekin,352,0,Ok
+Watford,584,0,Ok
+Lanivet,7,0,Ok
+Cannock Chase,2,0,Ok
+Bradford-on-Avon,1,0,Ok
+Antony,4,0,Ok
+St Keverne,0,0,Ok
+St Tudy,0,0,Ok
+Fareham,341,0,Ok
+Huntingdonshire,220,0,Ok
+North Lincolnshire,658,0,Ok
+Tendring District,5,0,Ok
+Inverclyde,149,0,Ok
+Budock,4,0,Ok
+Neath Port Talbot,355,0,Ok
+Welwyn Hatfield,137,0,Ok
+Grampound with Creed,5,0,Ok
+Knowsley,2,0,Ok
+Launceston,61,0,Ok
+East Hampshire District Council,168,0,Ok
+Orkney,75,0,Ok
+St Minver Lowlands,0,0,Ok
+Tremaine,2,0,Ok
+Pendle,305,0,Ok
+St Germans,0,0,Ok
+Fenland,25,0,Ok
+Pelynt,2,0,Ok
+Merthyr Tydfil,60,0,Ok
+Richmondshire,43,0,Ok
+Hart,343,0,Ok
+Fountains Earth,0,0,Ok
+St Austell,0,0,Ok
+Sunderland,487,0,Ok
+Morval,1,0,Ok
+Warleggan,1,0,Ok
+Gravesham,257,0,Ok
+Portreath,21,0,Ok
+St Enoder,0,0,Ok
+St Merryn,0,0,Ok
+Sheviock,14,0,Ok
+Mawgan in Meneage,10,0,Ok
+St Newlyn EaSt,0,0,Ok
+Breage,2,0,Ok
+Sefton,48,0,Ok
+West Dunbartonshire,104,0,Ok
+Caerphilly,107,0,Ok
+Brentwood,590,0,Ok
+Hartlepool,0,0,Ok
+Polperro,14,0,Ok
+Rushmoor,0,0,Ok
+Pannal and Burn Bridge,1,0,Ok
+South Petherwin,0,0,Ok
+Callington,62,0,Ok
+Maker with Rame,1,0,Ok
+St Endellion,0,0,Ok
+Marhamchurch,21,0,Ok
+Falkirk,35,0,Ok
+Ripon,87,0,Ok
+Perranarworthal,0,0,Ok
+Truro,143,0,Ok
+West Lindsey,0,0,Ok
+Bromsgrove,145,0,Ok
+Mawnan,10,0,Ok
+Millbrook,15,0,Ok
+St Issey,0,0,Ok
+Dartford,197,0,Ok
+St Sampson,0,0,Ok
+Thurrock,464,0,Ok
+North East Lincolnshire,750,0,Ok
+Madron,0,0,Ok
+Trevalga,0,0,Ok
+Landewednack,22,0,Ok
+St Breward,0,0,Ok
+Sandwell,837,0,Ok
+Redruth,33,0,Ok
+Fowey,20,0,Ok
+Wyre Forest,0,0,Ok
+Preston,815,0,Ok
+Basingstoke and Deane,347,0,Ok
+Warrington,30,0,Ok
+Chacewater,9,0,Ok
+Tintagel,13,0,Ok
+Kea,20,0,Ok
+Mylor,12,0,Ok
+South Tyneside,462,0,Ok
+Gwennap,575,0,Ok
+South Staffordshire,0,0,Ok
+Knaresborough,85,0,Ok
+St Ewe,0,0,Ok
+Crowan,57,0,Ok
+Philleigh,1,0,Ok
+St Mewan,0,0,Ok
+Basildon,0,0,Ok
+Selby,56,0,Ok
+Ladock,0,0,Ok
+St Breock,0,0,Ok
+Hampsthwaite,602,0,Ok
+St Austell Bay,0,0,Ok
+Torfaen,106,0,Ok
+East Staffordshire,1,0,Ok
+St Erth,0,0,Ok
+Liskeard,71,0,Ok
+Maldon,26,0,Ok
+Chippenham,159,0,Ok
+St Blaise,0,0,Ok
+South Holland,32,0,Ok
+St John,0,0,Ok
+Ludgvan,17,0,Ok
+Deviock,73,0,Ok
+Bishop Thornton,3,0,Ok
+Saltash,43,0,Ok
+Warminster,75,0,Ok
+Launcells,0,0,Ok
+Wakefield,251,0,Ok
+Beckwithshaw,8,0,Ok
+Cubert,3,0,Ok
+Dobwalls and Trewidland,20,0,Ok
+Towednack,1,0,Ok
+Landulph,1,0,Ok
+Carn Brea,0,0,Ok
+Mawgan in Pydar,0,0,Ok
+Gwinear Gwithian,4,0,Ok
+Tywardreath and Par,1,0,Ok
+Clint cum Hamlets,18,0,Ok
+Quethiock,0,0,Ok
+Warbstow,2,0,Ok
+St Clether,0,0,Ok
+Roche,1,0,Ok
+St Ervan,0,0,Ok
+Sancreed,7,0,Ok
+St Helens,0,0,Ok
+Keynsham,48,0,Ok
+Castle Point,0,0,Ok
+Hyndburn,2,0,Ok
+Broadoak,129,0,Ok
+Wadebridge,48,0,Ok
+Redditch,164,0,Ok
+Mevagissey,31,0,Ok
+Kirk Hammerton,11,0,Ok
+Kilkhampton,15,0,Ok
+Gweek,5,0,Ok
+Luxulyan,3,0,Ok
+Pillaton,0,0,Ok
+Great Ouseburn,0,0,Ok
+St Veep,0,0,Ok
+St Hilary,0,0,Ok
+St Erme,0,0,Ok
+Gerrans,81,0,Ok
+Thruscross,1,0,Ok
+Masham,7,0,Ok
+Ely,56,0,Ok
+Camelford,29,0,Ok
+Harlow,229,0,Ok
+Gunwalloe,0,0,Ok
+Illogan,10,0,Ok
+Dudley,221,0,Ok
+Boconnoc,1,0,Ok
+Duloe,15,0,Ok
+Wendron,15,0,Ok
+St Marys,0,0,Ok
+Jacobstow,9,0,Ok
+Dunsforths,1,0,Ok
+St Day,0,0,Ok
+Ruanlanihorne,0,0,Ok
+Lezant,2,0,Ok
+Morwenstow,4,0,Ok
+Egloshayle,5,0,Ok
+St Clement,0,0,Ok
+St Winnow,0,0,Ok
+St Teath,0,0,Ok
+Lewannick,4,0,Ok
+Week St Mary,4,0,Ok
+Bewerley,0,0,Ok
+Dacre,0,0,Ok
+Zennor,41,0,Ok
+St Wenn,0,0,Ok
+St Stephen in Brannel,0,0,Ok
+Stithians,4,0,Ok
+Chiang Mai,7,0,Ok
+Killinghall,1,0,Ok
+St Pinnock,0,0,Ok
+Davidstow,0,0,Ok
+Crantock,9,0,Ok
+Darley and Menwith,0,0,Ok
+St Eval,0,0,Ok
+Probus,14,0,Ok
+Tregoney,6,0,Ok
+Pentewan Valley,4,0,Ok
+Menheniot,5,0,Ok
+Antrim Borough Council,0,0,Ok
+High and Low Bishopside,0,0,Ok
+St Neot,0,0,Ok
+St Mellion,0,0,Ok
+St Keyne,0,0,Ok
+Advent,1,0,Ok
+St Anthony in Meneage,0,0,Ok
+Stokeclimsland,2,0,Ok
+St Gluvias,0,0,Ok
+St Just in Roseland,0,0,Ok
+North Hill,32,0,Ok
+Treverbyn,65,0,Ok
+Lesnewth,1,0,Ok
+Blisland,7,0,Ok
+St Dominick,0,0,Ok
+St Allen,0,0,Ok
+St Ive,0,0,Ok
+Trowbridge,107,0,Ok
+Scriven,0,0,Ok
+Cardinham,0,0,Ok
+North Tamerton,11,0,Ok
+Carlyon,22,0,Ok
+Mabe,93,0,Ok
+Otterham,3,0,Ok
+Bodmin,80,0,Ok
+Kirkby Malzeard,1,0,Ok
+Baldersby,85,0,Ok
+Nun Monkton,2,0,Ok
+Boyton,0,0,Ok
+Plompton,0,0,Ok
+Lanreath,11,0,Ok
+St Stephens by Launceston Rural,0,0,Ok
+Morvah,0,0,Ok
+Burton-on-Yore,30,0,Ok
+Helland,0,0,Ok
+Grewelthorpe,3,0,Ok
+St Juliot,0,0,Ok
+St Michael Caerhays,0,0,Ok
+Follifoot,4,0,Ok
+Paul,15,0,Ok
+Spofforth with Stockeld,1,0,Ok
+Middlesbrough,665,0,Ok
+Lanlivery,1,0,Ok
+Thornthwaite with Padside,0,0,Ok
+Sharow,3,0,Ok
+Boroughbridge,27,0,Ok
+Laverton,0,0,Ok
+Lanner,7,0,Ok
+Manaccan,0,0,Ok
+Linkinhorne,0,0,Ok
+Lanhydrock,2,0,Ok
+Wilstrop,57,0,Ok
+Torpoint,22,0,Ok
+Landrake with St Erney,0,0,Ok
+Littlethorpe,1,0,Ok
+Wath,0,0,Ok
+Carharrack,8,0,Ok
+Birstwith,4,0,Ok
+Whitstone,232,0,Ok
+Tamworth,201,0,Ok
+Stainburn,0,0,Ok
+Trewen,0,0,Ok
+Stonebeck Up,12,0,Ok
+Werrington,1,0,Ok
+Blaenau Gwent,19,0,Ok
+Boston,218,0,Ok
+Thorpe Underwoods,2,0,Ok
+South Hill,0,0,Ok
+St Martin in Meneage,0,0,Ok
+Flaxby,0,0,Ok
+Azerley,0,0,Ok
+North Rigton,0,0,Ok
+Fewston,0,0,Ok
+Cury,0,0,Ok
+Hartwith cum Winsley,5,0,Ok
+Grantley,0,0,Ok
+Kirby Hill,18,0,Ok
+Felliscliffe,0,0,Ok
+Kirk Deighton,0,0,Ok
+South Stainley with Cayton,0,0,Ok
+Withiel,1,0,Ok
+Warsill,51,0,Ok
+Donegal County,0,0,Ok
+Nesfield with Langbar,0,0,Ok
+Norwood,363,0,Ok
+Great Timble,12,0,Ok
+Markington with Wallerthwaite,15,0,Ok
+Moor Monkton,1,0,Ok
+Stonebeck Down,0,0,Ok
+Botusfleming,0,0,Ok
+Ilton-cum-Pott,0,0,Ok
+St Martins,0,0,Ok
+Tresmeer,1,0,Ok
+Farnham,245,0,Ok
+St Asaph,0,0,Ok
+Aldfield,0,0,Ok
+Healey,32,0,Ok
+Wighill,2,0,Ok
+St Dennis,0,0,Ok
+Norton-le-Clay,1,0,Ok
+Sicklinghall,2,0,Ok
+Bryher,0,0,Ok
+Green Hammerton,8,0,Ok
+Whixley,4,0,Ok
+Fearby,0,0,Ok
+Weeton,0,0,Ok
+Marton-le-Moor,0,0,Ok
+Ripley,71,0,Ok
+Long Marston,35,0,Ok
+Nidd,0,0,Ok
+Bilton-in-Ainsty with Bickerton,39,0,Ok
+Lindley,26,0,Ok
+Michaelstow,0,0,Ok
+Staveley,3,0,Ok
+Cundall with Leckby,0,0,Ok
+Allerton Mauleverer with Hopperton,23,0,Ok
+Cuby,0,0,Ok
+St Thomas the Apostle Rural,0,0,Ok
+Burton Leonard,41,0,Ok
+Roecliffe,7,0,Ok
+Swinton with Warthermarske,61,0,Ok
+Sawley,5,0,Ok
+Lindrick with Studley Royal and Fountains,6,0,Ok
+Egloskerry,0,0,Ok
+Lawhitton Rural,1,0,Ok
+Cattal,1,0,Ok
+Scotton,3,0,Ok
+St Michael Penkevil,0,0,Ok
+Langthorpe,0,0,Ok
+Rainton with Newby,7,0,Ok
+Eavestone,0,0,Ok
+Coneythorpe and Clareton,39,0,Ok
+LaneaSt,0,0,Ok
+Milby,0,0,Ok
+Ellingstring,2,0,Ok
+Marton cum Grafton,0,0,Ok
+Askwith,0,0,Ok
+Ellington High and Low,0,0,Ok
+North Stainley with Sleningford,1,0,Ok
+Winksley,0,0,Ok
+Hunsingore,1,0,Ok
+Ferrensby,3,0,Ok
+Skelding,0,0,Ok
+Goldsborough,0,0,Ok
+St Michaels Mount,0,0,Ok
+Arkendale,0,0,Ok
+Studley Roger,15,0,Ok
+Treneglos,2,0,Ok
+Kirkby Overblow,3,0,Ok
+Melmerby,6,0,Ok
+Castley,0,0,Ok
+St Davids,0,0,Ok
+Little Ouseburn,3,0,Ok
+Copt Hewick,1,0,Ok
+Little Ribston,0,0,Ok
+Great Ribston with Walshford,0,0,Ok
+Middleton,131,0,Ok
+Bridge Hewick,0,0,Ok

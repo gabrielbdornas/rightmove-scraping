@@ -1,0 +1,10 @@
+OK so:
+
+1) ALso in relevant folder are the scripts used to run the rightmove scrape. You can see from the title that each is essentially the same but with slightly different parameters set to control radius and rent/buy.
+These scripts are PYTHON scripts - you will need to download a python compiler to runi them and they take about 8 hours (depending on parameters).
+Strongly suggest you pass these to your dev guy - they will be able to get these running regularly and automated. They will also need to change locations of the saved files but they will know that anyway (I hope!)
+
+2) In Scripts folder is a list of "Unique Cities".  This is what the Scraping script uses to tell Rightmove where to search.
+NOTE - when we first started this I derived that list by taking all of the cities listed in the airDNA data and taking only unique cities. Month on month I have then done the same and built the list up. My logic - no point in scraping rightmove for properties to buy in towns/cities which have no airDNA data to compare to.
+However unless that approach is to be continued - I suggest downloading a list of UK towns and cities and putting that in the list instead. That way each month you get everything although a) scrape will take much longer and b) most months a lot of that data wont be relevant (depending on whats in AirDNA)
+
