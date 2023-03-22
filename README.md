@@ -1,4 +1,4 @@
-# Get YouTube Transcriptions :film_strip:
+# Rightmove Web Scraping With GitHub Actions :rocket: :rocket: :rocket:
 
 This repository aims to show a web-scraping process running inside GitHub actions.
 The repository infrastructure was thought to simplify project setup and usage.
