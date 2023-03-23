@@ -31,7 +31,7 @@ Local repo clone or python environment configuration isn't necessary, although t
 
 https://github.com/gabrielbdornas/rightmove-scraping/blob/fac64867e224a1f22593b865cadf31f0881fdbf6/.github/workflows/main.yml#L3-L5
 
-Obs.: Take care with your [GitHub Actions plan](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions) because it takes more than 8 hours to finish. 
+Obs.: Take care with your [GitHub Actions plan](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions) because it takes more than 13 hours to finish. 
 
 ## Contributions
 
